@@ -97,7 +97,7 @@ Analizler sonucunda şu bulgulara ulaşıldı:
 ## Sonuçlar
 
 - **Model Performansı**: Özellik mühendisliği sonrası modellerin performansında genel olarak iyileşme gözlemlendi. Özellikle, Adaboost ve Naive Bayes modellerinin performansı arttı. Adaboost sınıf 0'ı doğru sınıflandırmada iyi performans sergilemeye devam etti, Naive Bayes ise sınıf 1 üzerinde yüksek recall sağladı. QDA modeli, yüksek precision değerleriyle dikkat çekti ancak genel doğruluk ve F1-skorunda diğer modellerin gerisinde kaldı.
-- 
+
 ## İletişim
 
 Projeye öneri veya katkıda bulunmak isterseniz, [Linkedin](https://www.linkedin.com/in/ibrahimsezginim) profilimi ziyaret edebilir veya [e-posta](mailto:benibrahimsezgin@outlook.com) ile bana ulaşabilirsiniz.
