@@ -86,7 +86,7 @@ G. **No Phone Service**: PhoneService sütununda değeri No olanlar için Multip
 
 H. **Streaming**: StreamingMovies veya StreamingTV hizmetlerine abone olup olmadığını daha basit ve anlaşılır bir biçimde temsil etmek için yeni bir sütun oluşturduk.
 
-## Analizler ve Sonuçlar
+## Analizler
 
 Analizler sonucunda şu bulgulara ulaşıldı:
 
@@ -94,7 +94,7 @@ Analizler sonucunda şu bulgulara ulaşıldı:
 
 - **MonthlyCharges ve Tenure**: Tenure değeri 0-10 arasında bulunan müşterilerde, MonthlyCharges değeri ortalama 70 birimi geçtikten sonra müşteri kaybının sık yaşandığı gözlemlenmiştir. Bu, yüksek aylık ücretlerin müşteri kaybını artırabileceğini işaret etmektedir.
 
-## Analizler ve Sonuçlar
+## Sonuçlar
 
 - **Model Performansı**: Özellik mühendisliği sonrası modellerin performansında genel olarak iyileşme gözlemlendi. Özellikle, Adaboost ve Naive Bayes modellerinin performansı arttı. Adaboost sınıf 0'ı doğru sınıflandırmada iyi performans sergilemeye devam etti, Naive Bayes ise sınıf 1 üzerinde yüksek recall sağladı. QDA modeli, yüksek precision değerleriyle dikkat çekti ancak genel doğruluk ve F1-skorunda diğer modellerin gerisinde kaldı.
 - 
